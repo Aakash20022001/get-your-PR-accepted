@@ -4,5 +4,6 @@
 - [Narayan Soni](https://github.com/narayan954)
 - [Shravya](https://github.com/ShravyaMallya)
 - [Nisha Srivastava](https://github.com/newbiens)
+- [Aakash](https://github.com/Aakash20022001)
 - [Yash Sanghvi](https://github.com/yashsanghvi001)
 - [Muskan Shaikh](https://github.com/muskanshaikh)
